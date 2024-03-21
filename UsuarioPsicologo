@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T16:40:46.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.0.7" etag="LbB5gojTjANwXNJp-XMj" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T16:42:13.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lyY7oLxv4vrRAHABjdsJ" version="24.0.7" type="github">
   <diagram name="Página-1" id="K8_2su4imjW9wA4Thx1o">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8E8E8;strokeColor=#666666;fontColor=#333333;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="500" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-14" value="Usuario Psicologo" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="515" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-15" value="CU024-Agenda" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-16" value="CU025-Crear perfil de paciente" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-17" value="CU028-Generar factura" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-18" value="CU027-Control de inventario" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="380" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-19" value="CU028-Bitácora" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="DGwGS3BviKBHA5Px77yQ-14" target="DGwGS3BviKBHA5Px77yQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="550" as="sourcePoint" />
+            <mxPoint x="470" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-21" value="Selección de herramientas&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Georgia;fontSize=16;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-22" value="CU026-orden medica" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="590" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="DGwGS3BviKBHA5Px77yQ-23" value="CU029-Generar presupuesto" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Georgia;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="590" width="140" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
